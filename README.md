@@ -70,5 +70,5 @@ O context no tRPC:
 É criado no início de cada requisição e passado para todos os procedimentos.
 É tipado, garantindo segurança no uso.
 
-No contexto do SvelteKit, um middleware é um código ou função que intercepta a requisição, podendo realizar tarefas como autenticação, logging, modificação de dados ou manipulação de cabeçalhos, antes ou depois do processamento da solicitação. O middleware no SvelteKit é implementado principalmente através do handle nos hooks, permitindo um controle centralizado sobre o fluxo de requisições e respostas.
+No contexto do SvelteKit, um middleware é um código ou função que intercepta a requisição, podendo realizar tarefas como autenticação, logging, modificação de dados ou manipulação de cabeçalhos, antes ou depois do processamento da solicitação. O middleware no SvelteKit é implementado principalmente através do handle nos hooks, permitindo um controle centralizado sobre o fluxo de requisições e respostas. 
 
